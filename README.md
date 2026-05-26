@@ -8,7 +8,7 @@
 
 <br/>
 
-<!-- NEON SOCIAL BADGES -->
+<!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gananag-syannaneti)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gananag.syannaneti@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gananag)
@@ -27,19 +27,19 @@
 ```python
 class Gananag:
     name        = "Gananag Syannaneti"
-    title       = "Salesforce Specialist & Full  Stack Developer"
+    title       = "Salesforce AgentForce Specialist"
     location    = "Italy 🇮🇹"
     languages   = ["English", "Italian", "Telugu"]
-    
+
     skills = {
-        "salesforce" : ["AgentForce", "Apex", "LWC", 
+        "salesforce" : ["AgentForce", "Apex", "LWC",
                         "SOQL", "Sales Cloud", "Service Cloud"],
-        "fullstack"  : ["React", "Node.js", "Python", 
+        "fullstack"  : ["React", "Node.js", "Python",
                         "REST APIs", "JavaScript"],
         "cloud"      : ["AWS", "Azure", "Heroku"],
         "database"   : ["MySQL", "PostgreSQL", "MongoDB"]
     }
-    
+
     currently    = "🔥 Crushing it as Salesforce AgentForce Specialist"
     available    = "✅ Open to exciting opportunities in Europe"
     superpower   = "⚡ Turning business chaos into CRM elegance"
@@ -51,16 +51,16 @@ class Gananag:
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> &nbsp; Salesforce Arsenal ☁️
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"> &nbsp; Salesforce Arsenal ☁️
 
 <div align="center">
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![AgentForce](https://img.shields.io/badge/🤖%20AgentForce-00A1E0?style=for-the-badge&logoColor=white)
+![AgentForce](https://img.shields.io/badge/AgentForce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![LWC](https://img.shields.io/badge/⚡%20LWC-00A1E0?style=for-the-badge&logoColor=white)
+![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Flows](https://img.shields.io/badge/🔄%20Flows-00A1E0?style=for-the-badge&logoColor=white)
+![Flows](https://img.shields.io/badge/Flows-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Sales Cloud](https://img.shields.io/badge/Sales%20Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Service Cloud](https://img.shields.io/badge/Service%20Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Marketing Cloud](https://img.shields.io/badge/Marketing%20Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
@@ -115,7 +115,7 @@ class Gananag:
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=gananag&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=F107A3&icon_color=00C6FF&text_color=ffffff" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gananag&theme=radical&hide_border=true&background=0D1117&ring=F107A3&fire=00C6FF&currStreakLabel=7B2FF7" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=gananag&theme=radical&hide_border=true&background=0D1117&ring=F107A3&fire=00C6FF&currStreakLabel=7B2FF7" width="49%"/>
 
 <br/>
 
@@ -140,9 +140,9 @@ class Gananag:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gananag/gananag/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gananag/gananag/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gananag/gananag/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gananag/syannaneti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gananag/syannaneti/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gananag/syannaneti/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
@@ -180,8 +180,6 @@ class Gananag:
 > *"The best code is no code. The second best is clean Salesforce Apex."* — Gananag ⚡
 
 <br/>
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom_Right.svg)
 
 </div>
 
